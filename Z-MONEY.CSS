@@ -1,0 +1,23 @@
+body {
+  font-family: roboto slab;
+}
+
+.main {
+  text-align: center;
+}
+
+.checkbox {
+  height: 40px;
+  width: 40px;
+  box-shadow: 1px 1px 10px rgb(155, 155, 155);
+}
+
+
+.money-plus {
+  display: inline-block;
+  font-size: 50px;
+}
+
+.title {
+  font-size: 75px;
+}
